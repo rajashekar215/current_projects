@@ -1,0 +1,440 @@
+చంద్రగిరి: ప్రపంచవ్యాప్తంగా గజగజ వణికిస్తున్న కరోనా వైరస్ నివారణపై శ్రీవిద్యానికేతన్ విద్యాసంస్థల్లోని దాసరి ఆడిటోరియంలో అవగాహన కార్యక్రమాన్ని నిర్వహించారు. ముఖ్య అతిథిగా హాజరైన నారావారిపల్లె సీహెచ్ సీ మెడికల్ సూపరింటెండెంట్ డాక్టర్ కల్యాణ్ చక్రవర్తి మాట్లాడుతూ, నిమిషాల వ్యవధిలో అత్యంత వేగంగా సోకే వైరస్ కరోనా అన్నారు.
+జలుబు, తర్వాత తీవ్ర జ్వరం, దగ్గు కరోనా వైరస్ లక్షణాలన్నారు.
+Chandra Giri: Srividyaniketan conducts awareness program at Dasari Auditorium at Academia. Speaking on the occasion, Dr. Kalyan Chakraborty, Chief Superintendent of Naravaripalle CH Medical Center, said, “Coronavirus is the fastest virus in minutes.. Colds, followed by severe fever and cough, are characteristic of coronavirus. 
+3.2254703044891357
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   Srividyaniketan
+how  ::   the fastest virus in minutes .
+waiting for 10 seconds...
+
+last_postid ::  2386020
+select * from ugc_posts_local as t1 where t1.post_id > 2386020 and t1.lang_id=1 order by post_gmt
+నల్గొండ:కేసీఆర్ తోనే సమగ్ర అభివృద్ది సాధ్యం అని దేవరకొండ శాసన సభ్యులు రమావత్ రవీంద్ర కుమార్ అన్నారు.గురువారం పిఏపల్లి మండలం మల్లాపురం గ్రామానికిచెందిన30మంది ఎమ్మెల్యే రవీంద్రకుమార్ సమక్షంలో టీఆర్ఎస్ లోచేరారు.ఈసందర్బంగాఆయనమాట్లాడుతూ..పేద ప్రజల అభివృద్ధి ప్రభుత్వ లక్ష్యం అని అన్నారు.అభివృదీని చూసి పలువురు టిఆర్ఎస్ పార్టీ లో చేరుతున్నారని చెప్పారు.
+Nalgonda: Devarakonda legislator Ramavat Ravindra Kumar says comprehensive development is possible with KCR. About 30 MLAs from Mallupuram village of PAPalli Mandalam joined TRS in the presence of Ravindrakumar. Isandarbangaayanamatladutu. . He said the development of the poor was a government goal. Seeing the improvement, many are joining the TRS party. 
+15.83553671836853
+who  ::   comprehensive development
+what  ::   is possible with KCR
+when  ::   None
+where  ::   Nalgonda
+why  ::   Devarakonda legislator Ramavat Ravindra Kumar
+how  ::   says comprehensive development is possible with KCR .
+waiting for 10 seconds...
+
+last_postid ::  2386021
+select * from ugc_posts_local as t1 where t1.post_id > 2386021 and t1.lang_id=1 order by post_gmt
+నర్సీపట్నం : పట్టణంలో  ఎక్కడ చూసినా కుక్కలు ప్రజలను భయభ్రాంతులకు గురిచేస్తున్నాయి. ప్రధాన రోడ్లు, వీధి రోడ్డు, ప్రభుత్వ కార్యాలయాలు ఇలా ఎక్కడ చూసినా గుంపులు గుంపులుగా స్వయం విహరం చేస్తున్నాయి. రోడ్లుపై ద్విచక్ర వాహనా దారులు, పాదచారులను, వృద్ధులు, పిల్లలను భయభ్రాంతులకు గురిచేస్తున్నాయి.  అధికారులు మాత్రం పట్టించుకోవడం లేదు  ఇప్పటికైనా అధికారులు స్పందించి చర్యలు తీసుకోవాలని కోరారు.
+Narsipatnam: Dogs are terrorizing people everywhere they look in town. The main roads, the street and the public offices are crowded wherever they look.. Two-wheeler on the roads, pedestrians, elderly and children. Officials did not care but the authorities still responded and requested action. 
+0.327561616897583
+who  ::   people
+what  ::   look in town
+when  ::   None
+where  ::   None
+why  ::   Officials
+how  ::   people everywhere they look in town .
+నారాయణఖేడ్ నియోజకవర్గంలోని నారాయణఖేడ్, నాగల్గిద్ద మండలాలకు చెందిన కళ్యాణ లక్ష్మి,షాధిముభారక్ చెక్కులను ఖేడ్  ఎమ్మెల్యే తన క్యాంపు కార్యాలయంలో  77 మంది లబ్ధిదారులకు అందజేశారు. ఈ సందర్భంగా ఆయన మాట్లాడుతూ పేదింటి ఆడబిడ్డలకు సంక్షేమం కోసం రాష్ట్ర ప్రభుత్వం కళ్యాణ లక్ష్మీ పథకం ద్వారా ఆదుకుంటుందని తెలిపారు కార్యక్రమంలో ఖేడ్, నాగల్గిద్ద ఎంపిపిలు ఆయా మండలాల జెడ్పీటీసీలు ఉన్నారు.
+Kheda MLA handed over checks to 77 beneficiaries at his camp office in Kalyan Laxmi and Shadhimubharak in Narayankhed constituency of Narayankhed constituency. Speaking on the occasion, he said that the state government would provide for the welfare of the poor girls through the Kalyana Lakshmi Scheme.. 
+3.6654720306396484
+who  ::   Kheda MLA
+what  ::   handed over checks
+when  ::   None
+where  ::   None
+why  ::   Kheda MLA
+how  ::   of Narayankhed constituency .
+కంభం మండలం కంభం పట్టణం లోని మేఘ కాలనీకి చెందిన ఇద్దరు ఇంటర్ విద్యార్థినిలు గత రెండు రోజుల నుండి కనబడట్లేదు అని వారి తల్లిదండ్రులు స్థానిక పోలీస్ స్టేషన్లో ఫిర్యాదు ఇచ్చారు 11వ తేదీన కంభం లోని  సాధన కళాశాలకు వెళ్లిన విద్యార్థినులు తిరిగి ఇంటికి రాలేదని తల్లిదండ్రులు పోలీసులకు చెప్పారు ఫిర్యాదు అందుకున్న పోలీసులు కంభం తదితర ప్రాంతాల్లో గాలింపు చర్యలు చేపట్టారు
+Two students from Megha colony in Kambam town have been missing from the last two days. Their parents complained to the local police station.
+0.98909592628479
+who  ::   Two students from Megha colony in Kambam town
+what  ::   have been missing from the last two days
+when  ::   None
+where  ::   None
+why  ::   None
+how  ::   the local police station .
+waiting for 10 seconds...
+
+last_postid ::  2386027
+select * from ugc_posts_local as t1 where t1.post_id > 2386027 and t1.lang_id=1 order by post_gmt
+waiting for 10 seconds...
+
+last_postid ::  2386027
+select * from ugc_posts_local as t1 where t1.post_id > 2386027 and t1.lang_id=1 order by post_gmt
+waiting for 10 seconds...
+
+last_postid ::  2386027
+select * from ugc_posts_local as t1 where t1.post_id > 2386027 and t1.lang_id=1 order by post_gmt
+భద్రాద్రి జిల్లా అశ్వారావుపేట మండలం మల్లాయిగూడెం గ్రామ సర్పంచ్ రాజశేఖర్, తెలంగాణ ప్రభుత్వం అందించిన పంచాయితీ ట్రాక్టర్ ను ప్రారంభించారు. ఈ సందర్బంగా ఆయన మాట్లాడుతూ... ప్రభుత్వం అందించిన ఈ ట్రాక్టర్ ను సద్వినియోగం చేసుకొని, గ్రామాన్ని అభివృద్ధి బాటలో నడిపిస్తానని పేర్కొన్నారు. ఈ కార్యక్రమంలో ఉపసర్పంచ్ బుచ్చయ్య, పంచాయితీ కార్యదర్శి రవి, గ్రామస్థులు తదితరులు పాల్గొన్నారు.
+Bhadradri District Ashwaraupet Mandal Mallyaigudem Village Sarpanch Rajasekhar, Telangana Government Launched Panchayat Tractor. He was speaking on this occasion. . . He said the government would take advantage of this tractor and lead the village on the development path. Upasarpanch Buchaiya, Panchayat Secretary Ravi, villagers and others participated in the event. 
+0.288177490234375
+who  ::   Rajasekhar
+what  ::   was speaking on this occasion
+when  ::   None
+where  ::   None
+why  ::   He
+how  ::   None
+waiting for 10 seconds...
+
+last_postid ::  2386035
+select * from ugc_posts_local as t1 where t1.post_id > 2386035 and t1.lang_id=1 order by post_gmt
+తాండూరు పట్టణ కేంద్రంలో గురువారం జరిగిన పలు వివాహాది శుభకార్యాలలో ఎమ్మెల్యే పైలట్ రోహిత్ రెడ్డి, మున్సిపల్ చైర్ పర్సన్ తాటికొండ స్వప్న పరిమళ హాజరయ్యారు. ఈ సందర్భంగా బాద్ నూతన వధూవరులను ఆశీర్వదించి.... సుఖ సంతోషాలతో.. ఆయురారోగ్యాలతో జీవనం కొనసాగించాలని ఆకాంక్షించారు. ఈ కార్యక్రమంలో తాండూరు పట్టణ తెరాస నాయకులు తదితరులు ఉన్నారు.
+MLA Pilot Rohit Reddy, Municipal Chairperson Pathikonda Dream Dream Parfumi attended several wedding events held in the city center of Thandur on Thursday.. Baad blessed the new bride and groom on this occasion. . . . With pleasant pleasures. . They wish to continue living with ayurvedic diseases. The event was attended by the leaders of the city of Thandur. 
+0.29872632026672363
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   MLA Pilot Rohit Reddy , Municipal Chairperson Pathikonda Dream Dream Parfumi
+how  ::   attended several wedding events held in the city center of
+తూర్పు గోదావరి జిల్లా పిఠాపురంలో ఆంధ్ర ప్రదేశ్ పరిపాలనా వికేంద్రీకరణ విధానాలకు మద్దతుగా పిఠాపురం శాసన సభ్యులు  పెండెం దొరబాబు ఆధ్వర్యంలో వైసీపీ శ్రేణులు రిలే నిరాహార దీక్షలు చేసారు అనంతరం ఎమ్మెల్యేవంటా వార్పు కార్యక్రమంలో పాల్గొని ప్రసంగించారు,ముడురాజుదానుల ద్వారా రాష్ట్రం మోత్తం అభివృద్ధి చెందుతుందన్నారు
+In support of Andhra Pradesh administrative decentralization in Pithampur, East Godavari district, Pittapuram legislators under the leadership of Pendeem Dhorababu hosted a relay fasting after participating in a MLA Mawantha war event.
+3.2243969440460205
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   Pittapuram legislators under the leadership of Pendeem Dhorababu
+how  ::   Pradesh administrative decentralization in Pithampur , East Godavari district ,
+waiting for 10 seconds...
+
+last_postid ::  2386038
+select * from ugc_posts_local as t1 where t1.post_id > 2386038 and t1.lang_id=1 order by post_gmt
+waiting for 10 seconds...
+
+last_postid ::  2386038
+select * from ugc_posts_local as t1 where t1.post_id > 2386038 and t1.lang_id=1 order by post_gmt
+వరంగల్ రూరల్ జిల్లా నర్సంపేట పట్టణం లో 9వ వార్డు కౌన్సిలర్ కీర్తి రెడ్డి గారు స్థానిక అంగన్వాడీ కేంద్రాన్ని సందర్శించారు ఈ సందర్భంగా ఆమె మాట్లాడుతూ పిల్లలందరికీ పౌష్టికాహారాన్ని అందించాలి పౌష్టికాహార లోపంతో ఏ  ఏ శిశువు మృతి  చెందకుండా రాష్ట్ర ప్రభుత్వం చర్యలు తీసుకుంటుందని అన్నారు ఈ కార్యక్రమంలో అంగన్వాడీ టీచర్లు ఆశా వర్కర్లుపాల్గొన్నారు
+On the occasion of the 9th Ward Councilor Keerthi Reddy visited the local Anganwadi center in Narsampettu town of Warangal Rural district.
+6.5999274253845215
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   None
+how  ::   the local Anganwadi center in Narsampettu town of Warangal Rural
+మోత్కూరు వ్యవసాయ మార్కెట్లో కందుల కొనుగోలు ముమ్మరంగా కొనసాగాయి.రైతు సహకార సంఘం ఆధ్వర్యంలో ఈ నెల 7న కొనుగోలు కేంద్రం ప్రారంభించినప్పటికీ రెండు రోజుల కింద కురిసిన అకాల వర్షం కారణంగా తుకం వేయలేదు.అధికారులు మళ్లీ తుకారం ప్రారంభించారు.30 మంది రైతుల నుంచి478 క్వింటాళ్ల(956) బస్తాల కందులు కొనుగోలు చేసినట్టు సంఘం సీఈవో కృష్ణమాచారి తెలిపారు.దీనికి ప్రభుత్వం రూ.5800 మద్దతు ఇస్తుందని తెలిపారు.
+Purchasing of berries at the Mothkuru agricultural market continues to be a concern. Farmers' Co-operative Societies opened a shopping center on the 7th of this month. Officers started a rash again. Krishnamachari, CEO of the association, said 478 quintal (956) baskets were purchased from 30 farmers.. The government has allocated Rs. 5800 will be supported. 
+0.4049263000488281
+who  ::   Farmers ' Co-operative Societies
+what  ::   opened a shopping center
+when  ::   None
+where  ::   None
+why  ::   None
+how  ::   Mothkuru agricultural market continues to be a concern .
+waiting for 10 seconds...
+
+last_postid ::  2386042
+select * from ugc_posts_local as t1 where t1.post_id > 2386042 and t1.lang_id=1 order by post_gmt
+కృష్ణ : స్థానిక సంస్థల ఎన్నికలు సమీపిస్తున్న తరుణంలో ప్రభుత్వ కార్యాలయాలకు అధికార పార్టీ వైసీపీ రంగులు వేయడాన్ని సవాల్ చేస్తూ దాఖలైన పిటిషన్లను హైకోర్టు గురువారం విచారించింది . ఇరుపక్షాల వాదనలు విన్న ధర్మాసనం తీర్పును రిజర్వులో ఉంచింది. పల్లపాడు గ్రామపంచాయతీ కార్యాలయానికి అధికార వైసీపీ జెండా రంగులేయడాన్ని ఆ గ్రామానికి చెందిన రైతు ముప్ప వెంకటేశ్వరరావు హైకోర్టులో సవాల్ చేశారు .
+Krishna: The High Court on Thursday filed petitions challenging the dilution of the ruling party's YCP for public offices as elections for local bodies are approaching.. The jury heard the arguments of both parties and reserved the verdict. Farmer of the village Muppa Venkateswara Rao has challenged the color of the official YCP flag for the Pallapadu Grama Panchayat Office.. 
+2.401890754699707
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   None
+how  ::   for public offices as elections for local bodies are approaching
+waiting for 10 seconds...
+
+last_postid ::  2386047
+select * from ugc_posts_local as t1 where t1.post_id > 2386047 and t1.lang_id=1 order by post_gmt
+waiting for 10 seconds...
+
+last_postid ::  2386047
+select * from ugc_posts_local as t1 where t1.post_id > 2386047 and t1.lang_id=1 order by post_gmt
+సూర్యాపేట జిల్లా అనంతగిరి మండల కేంద్రంలోని శ్రీ రామలింగేశ్వర ఆలయంలో గత రెండు రోజులుగా జీవన ధర్నా ప్రతిష్ట మహోత్సవాలు జరుగుతున్నాయి.ఈ కార్యక్రమాల్లో భాగంగా గురువారం ఆరాధన,అగ్ని ప్రతిష్ట, శాంతి పాదాల గోపూజ,భూత బలి యాగశాల ప్రవేశం కార్యక్రమాలు భక్తుల కోలాహలంలో కన్నుల పండుగగా జరిగాయి.ఈకార్యక్రమంలో మాజీ ఎమ్మెల్యే వేనేపల్లి చందర్రావు నిర్మలాదేవి దంపతులు,గ్రామస్తులు,తదితరులు పాల్గొన్నారు.
+Sri Ramalingeshwara Temple at the center of Ananthagiri Mandal of Suryapet district. As part of these activities, Thursday worship, fire prestige, Shanti Pada Gopuja and Entrance of the Bodhi Bali Yagya were held as a feast for the devotees.. Former MLA Vennepalli Chanderrao Nirmaladevi, couples, villagers, etc.. 
+1.120880365371704
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   Ananthagiri Mandal of Suryapet
+why  ::   None
+how  ::   part of these activities ,
+waiting for 10 seconds...
+
+last_postid ::  2386055
+select * from ugc_posts_local as t1 where t1.post_id > 2386055 and t1.lang_id=1 order by post_gmt
+waiting for 10 seconds...
+
+last_postid ::  2386055
+select * from ugc_posts_local as t1 where t1.post_id > 2386055 and t1.lang_id=1 order by post_gmt
+బూర్జ : మండలంలోని మర్రిపాడులో తాగునీటి సమస్యతో తీవ్ర ఇబ్బందులకు గురవుతున్నామని గ్రామస్తులు ఆవేదన వ్యక్తం చేస్తున్నారు. 2 నెలలుగా గ్రామంలో ఉన్న మూడు తాగునీటి బోర్లు మరమ్మతులకు గురయ్యాయి. వాటిలో ఒకదాన్ని ప్రతి ఇంటి నుంచి సొంత నిధులు వెచ్చించి బాగుచేసుకున్నామని, మిగిలిన రెండింటిని  బాగుచేసేందుకు అధికారులు పట్టించుకోవడం లేదన్నారు. అధికారులు స్పందించి తగిన చర్యలు తీసుకోవాలని గ్రామస్తులు కోరుతున్నారు
+Villagers express concern over drinking water issue in Maripadu. Three drinking bores in the village have been repaired for 2 months. One of them had its own funds from each house to repair it and the other two did not care to repair it.. The villagers want the authorities to respond and take appropriate action
+10.428318738937378
+who  ::   Villagers
+what  ::   express concern over drinking water issue in Maripadu
+when  ::   None
+where  ::   None
+why  ::   Villagers
+how  ::   take appropriate action .
+మంగళగిరిలో చిన్నారి సహస్ర, ఎమ్మెల్సీ నారా లోకేష్ ని కలిసి తాను దాచుకున్న డిబ్బిలోని డబ్బుని అమరావతి జేఏసీ ఉద్యమానికి విరాళంగా ఇచ్చింది. ఈ సందర్భంగా లోకేష్ మాట్లాడుతూ.. ఉద్యమంలో తమ వంతు భాగస్వామ్యం ఉండాలని ముందుకు వస్తున్న అందరినీ  అభినందిస్తున్నామని, సహస్ర ఇచ్చిన విరాళాన్ని అమరావతి జేఏసీకి అందజేస్తామన్నారు.
+Amaravathi JAC Movement donates money from Dibby, which he hides with Millai Nara Lokesh. Speaking on the occasion Lokesh said. . We welcome all those who have come forward to join the movement and will make Sahasra's donation to Amaravati JAC. 
+7.576898097991943
+who  ::   Amaravathi JAC Movement
+what  ::   donates money from Dibby , which he hides with Millai Nara Lokesh
+when  ::   None
+where  ::   Dibby
+why  ::   We
+how  ::   come forward to join the movement and will make Sahasra
+పాములపాడు: ఎర్రగూడూరు శివార్లలోని ఈదులవాగు వద్ద నాటుసారా బట్టీని ధ్వంసం చేసినట్లు ఎస్సై రాజ్ కుమార్ తెలిపారు. ముందస్తు సమాచారం మేరకు బట్టిపై దాడి చేసి 20 లీటర్ల నాటుసారా వంద లీటర్ల సారాయి
+ఊటను స్వాధీనం చేసుకున్నామన్నారు. సతుపాటి శివమ్మ, సుబ్బరాయుడు, రాజ శేఖర్లను అరెస్టు చేసి కేసులు నమోదు చేశామన్నారు. కార్యక్రమంలో సిబ్బంది నూర్ బాష, రఘు పాల్గొన్నారు.
+Pasumalapadu: Ensign Raj Kumar says Nattusara Butter was destroyed at Eidulavagu on the outskirts of Erragudur.. Based on prior information, 20 liters of natusara was brewed and one hundred liters of wine was attacked
+Seize the meals. Sathupati Shivamma, Subbarayudu, Raja Shekhar arrested. Staff Nur Basha and Raghu participated in the event. 
+6.235337734222412
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   Staff Nur Basha and Raghu
+how  ::   on prior information , 20 liters of natusara was brewed
+waiting for 10 seconds...
+
+last_postid ::  2386064
+select * from ugc_posts_local as t1 where t1.post_id > 2386064 and t1.lang_id=1 order by post_gmt
+నల్గొండ:పేదప్రజలకుప్రభుత్వంసంక్షేమపథకాలను సమృద్ధిగా అందిస్తుంది అని దేవరకొండశాసన సభ్యులు రవీంద్రకుమార్అన్నారు.గురువారం పిఏపల్లి మండలానికి చెందిన 19మందికి రూ.3.12లక్షల సీఎం సహాయ నిధి నుంచి మంజూరు ఐన చెక్కులను ఎమ్మెల్యే రవీంద్ర కుమార్ బాధితులకు పంపిణీ చేశారు. ఈ సందర్భంగా ఆయన మాట్లాడుతూ సి.యం .సహాయ నిధి ని సద్వినియోగం చేసుకోవాలని సూచించారు.
+Nalgonda: Ravindrakumar members of Devarakonda Kasan say that the government provides an abundance of love stories to poor people. On Thursday, 19 persons from the Papelli Zone were paid Rs. 3. MLA Ravindra Kumar distributes checks of Rs.. He was speaking on the occasion. M. It is suggested that the aid fund be utilized. 
+0.3025374412536621
+who  ::   MLA Ravindra Kumar
+what  ::   distributes checks of Rs
+when  ::   None
+where  ::   Nalgonda
+why  ::   MLA Ravindra Kumar
+how  ::   to poor people .
+కృష్ణ జిల్లా  స్థానిక సంస్థల ఎన్నికలు సమీపిస్తున్న తరుణంలో ప్రభుత్వ కార్యాలయాలకు అధికార పార్టీ వైసీపీ రంగులు వేయడాన్ని సవాల్ చేస్తూ దాఖలైన పిటిషన్లను హైకోర్టు గురువారం విచారించింది . ఇరుపక్షాల వాదనలు విన్న ధర్మాసనం తీర్పును రిజర్వులో ఉంచింది . హైకోర్టు ప్రధాన న్యాయమూర్తి జస్టిస్ జీకే మహేశ్వరి, జస్టిస్ ఎన్ . జయసూర్య ధర్మాసనం వాదనలు వింది.
+The High Court on Thursday heard petitions challenging the dilution of the ruling party's YCP for the government offices as the Krishna district local body elections are approaching.. The jury heard the arguments of both parties and reserved the verdict. Chief Justice of the High Court, Justice GK Maheshwari, Justice N. The Jayasuriya bench heard the arguments. 
+2.3874313831329346
+who  ::   The High Court on Thursday
+what  ::   heard petitions
+when  ::   None
+where  ::   None
+why  ::   None
+how  ::   district local body elections are approaching .
+సేవా కార్యక్రమాలు సమాజ హితానికి నాంది అని వాసవి క్లబ్ అధ్యక్షుడు చిలువేరి శ్రీనివాస్ అన్నారు. సిద్దిపేట పట్టణానికి చెందిన రచ్చ నరసింహులులక్ష్మీ దంపతుల కుమార్తె సరస్వతి వివాహానికి ఆర్యవైశ్య మహాసభ సిద్దిపేట అధ్యక్షుడు సోమ వనజశివకుమార్ సహకారంతో  యాబై కేజీల బియ్యాన్ని అందజేశారు. కార్యదర్శి రాజా శ్రీనివాస్, కోశాధికారి కొండూరి వెంకటేశం,క్లబ్ సభ్యులు పాల్గొన్నారు.
+Vasavi Club President Chiluveri Srinivas said the service initiatives are for the good of the community. Saraswathi's daughter, daughter of Rachcha Narasimhaul Lakshmi from Siddipeta town, handed over Yabi Kajal rice with the contribution of Arya Vaishya Mahasabha Siddipeta president Soma Wanajasivakumar.. Secretary Raja Srinivas, Treasurer Konduri Venkatesham and club members participated. 
+2.042924165725708
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   Siddipeta
+why  ::   None
+how  ::   the good of the community
+waiting for 10 seconds...
+
+last_postid ::  2386071
+select * from ugc_posts_local as t1 where t1.post_id > 2386071 and t1.lang_id=1 order by post_gmt
+వర్ని మండలం చింతకుంట గ్రామానికి చెందిన స్వరూపకు పురితనొప్పులు రావడంతో ఈ రోజు (గురువారం)  ఉదయం108 అంబులెన్స్ లో తరలిస్తుండగా మార్గమధ్యలో ప్రసవించింది.ఆమె రెండవ కాన్పులో పండంటి మగ బిడ్డకు జన్మనిచ్చింది.సుఖప్రసవం చేసిన  బోధన్ 108 సిబ్బంది లక్ష్మణ్ మరియు మురళీకృష్ణ లను కుటుంబసభ్యులు అభినందించారు.తల్లి బిడ్డలను నిజామాబాద్ ప్రభుత్వ ఆసుపత్రికి  తరలించారు.
+The Varni Mandal was on its way to 108 ambulance this morning (Thursday) as the image of Chinthakkunta village was shattered.. She gave birth to a former baby boy in the second half. Family members greet Lakshman and Muralikrishna. The mother was taken to the Nizamabad Government Hospital. 
+4.927312612533569
+who  ::   The Varni Mandal
+what  ::   was on its way this morning
+when  ::   None
+where  ::   Varni Mandal
+why  ::   The Varni Mandal
+how  ::   a former baby boy in the second half .
+శేర్లింగంపల్లి నియోజకవర్గ పరిధిలోని ఆల్విన్ కాలనీ నల్ల పోచమ్మ దేవాలయంలో గురువారం శివలింగ విగ్రహ ప్రతిష్టాపన కార్యక్రమం జరిగింది.  ఈ సందర్భంగా భాజపా రాష్ట్ర కార్యవర్గ సభ్యులు జ్ఞానేంద్ర ప్రసాద్ ప్రత్యేక పూజా కార్యక్రమాల్లో పాల్గొన్నారు. అనంతరం ఆయన మాట్లాడుతూ....ఆలయ అభివృద్ధికి కావాల్సిన సహాయ సహకారాలు అందిస్తానన్నారు. ఈ కార్యక్రమంలో ఆలయ కమిటీ సభ్యులు, భక్తులు ఉన్నారు.
+A statue of Lord Shiva was installed on Thursday. Gyanyendra Prasad participated in special pooja ceremonies. He was speaking afterwards. . . . The temple will provide the necessary support for the development. Temple committee members and devotees were present at the event. 
+0.2606801986694336
+who  ::   Gyanyendra Prasad
+what  ::   participated in special pooja ceremonies
+when  ::   None
+where  ::   None
+why  ::   Gyanyendra Prasad
+how  ::   in special pooja ceremonies .
+రామచంద్రాపురం: వరిపంటను ఆశించే అగ్గితెగులు, ఆకుముడత తెగులును ప్రారంభ దశలోనే నివారించాలని ఆచార్య ఎన్జీరంగా వ్యవసాయ పరిశోధన సంస్థ ప్రధాన శాస్త్రవేత్త  జానసుధీర్ సూచించారు. మండలంలోని  సొరకాయలపాలెంలో సాగు చేస్తున్న పంటలను ప్రాంతీయ శాస్త్రవేత్తల బృందం పరిశీలించింది.ప్రతి రైతులకు ఉదయం 9.30 నుంచి 4 గంటల వరకు శాస్త్రవేత్తలతో ముఖాముఖి కార్యక్రమం ఉంటుంది అన్నారు.
+Ramachandrapuram: Agriya Nizarga Agricultural Research Institute chief scientist Janasudhir advised to avoid early blight and leaf rot. A team of regional scientists examined the crops that are being cultivated in the Solar Pottery in the zone. 9 am to each farmer. He said there will be an interview program with scientists from 30 to 4 p.m.. 
+0.2421717643737793
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   there
+how  ::   avoid early blight and leaf rot .
+విశాఖపట్నం : సైన్సు దినోత్సవాన్ని పురస్కరించుకొని ఈ నెల 28 నుంచి మూడు రోజుల పాటు ఆంధ్రా యూనివర్సిటీలో మానసిక ఆరోగ్యంపై సదస్సు నిర్వహించనున్నారు. వర్సిటీ సైకాలజీ విభాగం ఆధ్వర్యంలో ఈ సదస్సును చేపట్టనున్నారు. ఈ మేరకు సైకాలజీ విభాగాధిపతి ఎం.వి.ఆర్ రాజు గురువారం ఒక ప్రకటనలో తెలిపారు. దీనిని జయప్రదం చేయాలని కోరారు.
+Visakhapatnam: Commemorating Science Day, a three-day seminar on mental health will be held at Andhra University from 28th of this month. The seminar will be held under the aegis of the Varsity Psychology Department. The Department of Psychology to the extent of this. V. R Raju said in a statement on Thursday. It was asked to be conquered. 
+2.3690264225006104
+who  ::   The seminar
+what  ::   will be held under the aegis
+when  ::   None
+where  ::   None
+why  ::   Visakhapatnam :
+how  ::   on mental health will be held at Andhra University from
+సంగారెడ్డి జిల్లా జహీరాబాద్ పట్టణంలో ఈ రోజు ఆర్థిక శాఖ మంత్రి హరీష్ రావు లబ్ధిదారులకు కల్యాణ లక్ష్మి ,షాదీ ముబారక్ చెక్కులను అందజేశారు. మంత్రి హరీష్ రావు మాట్లాడుతూ.... పేదింటి ఆడపిల్లలకు కల్యాణ లక్ష్మి ఒక వరం లాంటిది అన్నారు. ఈ కార్యక్రమంలో జిల్లా కలెక్టర్ హనుమంతరావు, ఎంపీ బీబీ పాటిల్, ఎమ్మెల్యే మాణిక్యరావు, ఎమ్మెల్సీ ఫరీదుద్దీన్, జడ్పీ చైర్పర్సన్ మంజుశ్రీ జైపాల్ రెడ్డి తదితరులు పాల్గొన్నారు.
+Kalyana Lakshmi and Shadi Mubarak presented checks to beneficiaries of Finance Minister Harish Rao today in Zahirabad town of Sangareddy district.. Minister Harish Rao said. . . . Kalyana Lakshmi is like a boon for poor girls. District Collector Hanumantha Rao, MP Bibi Patil, MLA Manikya Rao, MLC Fariduddin, Judge Chairperson Manjushri Jaipal Reddy and others participated in the event.. 
+1.1551337242126465
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   Kalyana Lakshmi and Shadi Mubarak
+how  ::   for poor girls .
+నారాయణఖేడ్ నియోజకవర్గం లోని కల్హేర్ మండలంలోని బీబిపేట్ గ్రామానికి చెందిన గుండు విట్టల్  కుమారుడు మరియు మనూర్‌ మండలంలోని శెల్గిరా గ్రామానికి చెందిన దుర్గయ్య గారి కుమార్తెల వివాహ వేడుకల్లో నారాయణఖేడ్ ఎమ్మెల్యే భూపాల్ రెడ్డి పాల్గొన్నారు. ఖేడ్ పట్టణంలోని సాయి బాబా ఫంక్షన్ హాల్ లో వివాహానికి హాజరై నూతన వధూవరులను ఆశీర్వదించారు. కార్యక్రమంలో ప్రజాప్రతినిధులు, మున్సిపాలిటీ నాయకులు తదితరులు పాల్గొన్నారు
+Narayanakhed MLA Bhupal Reddy participated in the wedding ceremony of Gundu Vittal's son from Bibipet village in Kalhare constituency of Narayankhed constituency and Durgaiah Gary's daughter from Selgira village in Manur zone. New Bride and Groom blessed the wedding at Sai Baba Function Hall in Khed town. The event was attended by public figures, municipal leaders and others
+3.0394763946533203
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   Narayanakhed MLA Bhupal Reddy
+how  ::   of Narayankhed constituency and Durgaiah Gary 's daughter from Selgira
+waiting for 10 seconds...
+
+last_postid ::  2386083
+select * from ugc_posts_local as t1 where t1.post_id > 2386083 and t1.lang_id=1 order by post_gmt
+ఖమ్మం జిల్లా మధిర పట్టణంలోని భరత్ విద్యా సంస్థల అధినేత శీలం వెంకట రెడ్డి ఆధ్వర్యంలో గురువారం విద్యార్థులకు మాక్ పోలింగ్ కార్యక్రమం నిర్వహించారు. ఈ సందర్భంగా విద్యార్థులకు ఓటు వేసే విధానం గురించి తెలియజేయడం కోసం ఒక్కొక్క తరగతి కి లీడర్ ను ఎన్నుకునే ఎన్నికలను నిర్వహించడం జరిగింది. ఈ సందర్భంగా విద్యార్థులు పాఠశాలలో నిర్వహించిన మాక్ పోలింగ్ కార్యక్రమం ద్వారా వారి మొదటి ఓటు హక్కును వినియోగించుకున్నారు.
+Milam polling for students on Thursday under the direction of Shilam Venkata Reddy, Head of Bharat Educational Institutions in Mathira Town, Khammam District. Elections to elect a leader for each class were conducted to inform the students about the voting process.. Students used their first voting rights at the school's mock polling program. 
+3.3159165382385254
+who  ::   Students
+what  ::   used their first voting rights
+when  ::   None
+where  ::   None
+why  ::   Students
+how  ::   's mock polling program . . .
+దోమల నివారణ కొరకు ఎప్పటికప్పుడు తగిన చర్యలు తీసుకుంటున్నామని ఆల్విన్ కాలని డివిజన్ కార్పొరేటర్ దొడ్ల వెంకటేష్ గౌడ్ అన్నారు. గురువారం  డివిజన్ పరిదిలోని ఎల్లమ్మ చెరువులో దోమల లార్వా, దోమల గుడ్లు,దోమల పిల్లలు చనిపోయే డిప్లబెజురిన్  మందును కార్పొరేటర్ దొడ్ల వెంకటేష్ గౌడ్  స్ప్రే చేశారు. తదనంతరం చెరువు చుట్టూ పాదయాత్ర చేసి చెరువులో ఉన్న ప్లాస్టిక్ ను త్వరితగతిన  తొలగించాలని అన్నారు.
+Corporator of the Alvin Colony Division, Dodla Venkatesh Goud said,. Corporator Dodla Venkatesh Goud sprayed a diplobazurin drug that killed mosquito larvae, mosquito eggs and mosquitoes at the Ellamma Pond on Thursday. Subsequently, he said, he would walk around the pond and remove the plastic in the pond as quickly as possible. 
+1.1499135494232178
+who  ::   Corporator Dodla Venkatesh Goud
+what  ::   sprayed a diplobazurin drug
+when  ::   None
+where  ::   Ellamma Pond
+why  ::   None
+how  ::   Subsequently , he said , he would walk around the
+వరంగల్ రూరల్ జిల్లా నల్లబెల్లి మండలం గుండ్లపహాడ్ గ్రామంలో కాంగ్రెస్ పార్టీ నాయకుడు  పొన్నాల రవి గారి కూతురు వివాహానికి హాజరై నూతన వధూవరులను  నర్సంపేట మాజీ ఎమ్మెల్యే శ్రీ దొంతి మాధవ రెడ్డి గారు ఆశీర్వదించారు ఈ సందర్భంగా ఆయన మాట్లాడుతూ ప్రతి కార్యకర్త కష్టసుఖాలలో పాలుపంచుకుంటారు కార్యకర్తలను కాపాడుకుంటూ కాంగ్రెస్ పార్టీకి పూర్వ వైభవం తీసుకొస్తా అన్నారు
+Former MLA Shri Dondi Madhava Reddy, the daughter of Congress leader Ponnala Ravi, at the village of Gundlapahad village in Warangal Rural district, Gundlapahad village, blessed the newlywed bride and groom.
+1.1213879585266113
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   None
+why  ::   None
+how  ::   Former MLA Shri Dondi Madhava Reddy , the daughter of
+నవీపేట్ మండలం సిరన్ పల్లి గ్రామంలో గురువారం రోజున మండల పంచాయతీ కార్యదర్శులు ప్రత్యేక బృందముగా ఏర్పడి చేపడుతున్న పన్నుల వసూళ్లను మండల పంచాయతీ అధికారి రాజ్ కాంత్ రావు పర్యవేక్షించి రూ.27,563/- వసూలు చేసినట్టు తెలిపినారు. ఇట్టి బృందంలో పంచాయతీ కార్యదర్శులు సందీప్,జగదీశ్వర్,శ్రావణ్,రాకేష్,శ్రావణ్ కుమార్,సునీత,కవిత,ప్రియాంక,నవనీత పాల్గొన్నారు.
+The tax collection of zonal panchayat secretaries formed on Thursday by a special committee of the zonal panchayat secretariat in the village of Siren Palli in Navipet zone was monitored by zonal panchayat officer Raj Kant Rao. 27,563 / - as reported. Panchayat Secretaries Sandeep, Jagadishwar, Shravan, Rakesh, Shravan Kumar, Sunita, Kavitha, Priyanka and Navaneetha participated in the team.. 
+5.05917763710022
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   Shravan
+why  ::   None
+how  ::   of zonal panchayat secretaries formed on Thursday by a special
+ధర్మవరం: కేంద్ర ప్రభుత్వం బడ్జెట్ లో తీసుకున్న నిర్ణయం పొగరాయలుకుషాక్ తగిలింది. సిగరెట్ల ధర పెంచుతామనికేంద్రజాబితాబడ్జెట్లో ప్రతిపాదించింది.ఫిబ్రవరి1నబడ్జెట్ ప్రవేశపెడితే ఏప్రిల్1న కొత్త ధరలు అమలుకావలసిన ఉంటుంది.అయితేరిటైల్ మార్కెట్ఇప్పటికే సిగరెట్ ధరలఅధికారంగాపెంచారు.వాస్తవానికి హోల్సేల్ మార్కెట్లోఎమ్మార్పీధరలుపైనేమార్జినల్ కి అమలుచేస్తున్నారు.పెద్దడీలర్లవద్ద వస్తున్నఎలాంటిమార్పులేదనితెలుస్తుందీ.
+Dharmavaram: The decision taken by the central government in the budget was a shock. The central budget proposes to increase the price of cigarettes. If the February 1 budget is introduced, the new prices will have to be implemented on April 1. However, the retail market is already dominated by cigarette prices. In fact, the wholesale market is implemented on the marketplace. Whatever it is. 
+0.28278303146362305
+who  ::   The central budget
+what  ::   proposes to increase the price
+when  ::   None
+where  ::   None
+why  ::   The decision taken by the central government in the budget
+how  ::   The central budget proposes to increase the price of cigarettes
+waiting for 10 seconds...
+
+last_postid ::  2386091
+select * from ugc_posts_local as t1 where t1.post_id > 2386091 and t1.lang_id=1 order by post_gmt
+కర్నూలు జిల్లా తెలుగు అకాడమీ అభివృద్ధికి కృషి చేయాలని ఆంధ్రప్రదేశ్ రాష్ట్ర తెలుగు అకాడమీ చైర్ పర్సన్ లక్ష్మి పార్వతిని డీఆర్డీఏ విజిలెన్స్ మానిటరింగ్ కమిటీ సభ్యురాలు చిటికెల సలోమి కోరారు. గురువారం అనంతపురంలో తెలుగు ఏపీ రాష్ట్ర అకాడమీ చైర్ పర్సన్ గా నియమితులైన లక్ష్మీపార్వతిని కలిసి ఆమె అభినందనలు తెలిపారు. ఈ సందర్భంగా జిల్లాలో తెలుగు అకాడమీ అభివృద్ధికి వసతుల కల్పనకు  కృషి చేయాలని కోరారు.
+Chitikela Salomi, Member of the DRDA Vigilance Monitoring Committee, asked Laxmi Parvati, Chairperson of Andhra Pradesh State Academy, to work for the development of Telugu Academy in Kurnool District. She congratulated Lakshmi Parvati, who was appointed as the chairperson of the Telugu AP State Academy in Anantapur on Thursday.. On this occasion, the Telugu academy in the district was asked to contribute towards the development of facilities. 
+4.228153228759766
+who  ::   Salomi
+what  ::   congratulated Lakshmi Parvati
+when  ::   None
+where  ::   Kurnool District
+why  ::   Chitikela Salomi , Member of the DRDA Vigilance Monitoring Committee ,
+how  ::   the chairperson of the
+గోలుగొండ మండలం కొత్త మల్లంపేట గ్రామంలో  జానికమ్మ పండుగ సందర్భంగా  రేపు మండల స్థాయి ఆటల పోటీలు నిర్వహిస్తున్నట్లు బ్లూస్టార్ యూత్ సభ్యులు తెలిపారు. 14 తేదీ నుండి ప్రారంబమై 20 తేదీ వరకు ఆటల పోటీలు జరుగుతాయన్నారు. 21 న జానికమ్మ పండుగ సందర్భంగా విజేతలకు బహుమతులు అందజేస్తామన్నారు............................
+BlueStar Youth members said they will be holding a zonal level game tomorrow at the Janikamma festival in the new Mallampeta village. The games will be held from the 14th to the 20th. The winners will be presented with gifts during the Janikamma festival on the 21st. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+1.1043803691864014
+who  ::   members
+what  ::   will be holding a zonal level game
+when  ::   None
+where  ::   Mallampeta
+why  ::   they
+how  ::   a zonal level game tomorrow at the Janikamma festival in
+ఒంగోలు:బాలాజీ రావు పేట 25వ వార్డు సచివాలయ ప్రారంభోత్సవ కార్యక్రమంలో వైసీపీ నగర అధ్యక్షులు సింగరాజు వెంకట్రావు ముఖ్యఅతిథిగా పాల్గొన్నారు.ఈ సందర్భంగా ఆయన మాట్లాడుతూ.సర్టిఫికెట్ల కోసం అన్ని ప్రభుత్వ కార్యాలయాల చుట్టూ తిరగకుండాప్రజలు ఎటువంటి సర్టిఫికెట్లు అయినా వార్డు సచివాలయంలో దరఖాస్తుచేసుకోవచ్చన్నారు.దరఖాస్తు చేసుకున్న 72 గంటల్లో వాలంటీర్లుఇంటి వద్దకు వచ్చి సర్టిఫికెట్లు అందజేయడంజరుగుతుంది అన్నారు
+Ongole: YSP City Presidents Singaraju Venkatrao was Chief Guest at Balaji Rao's 25th Ward Secretariat Opening Ceremony. He was speaking on the occasion. People can apply for any certificates in the Ward Secretariat without having to go around all government offices for certificates. Volunteers can come home and issue certificates within 72 hours of application
+1.200028657913208
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   Ward Secretariat
+why  ::   He
+how  ::   any certificates in the Ward Secretariat without having to go
+waiting for 10 seconds...
+
+last_postid ::  2386100
+select * from ugc_posts_local as t1 where t1.post_id > 2386100 and t1.lang_id=1 order by post_gmt
+సెలెక్ట్ కమిటీ ఏర్పాటు ఫైలును శాసన మండలి సెక్రటరీ  తిప్పి  పంపడంపైఛైర్మన్ షరీఫ్  ఆగ్రహం వ్యక్తంచేశారు.వెంటనే సెలెక్ట్ కమిటీ ఏర్పాటు చేసి తనకు  నివేదించాలనిమండలి  కార్యదర్శిని గురువారం చైర్మన్ షరీఫ్ఆదేశించారు.జాప్యంఇంకాకొనసాగితే నిబంధనలప్రకారంచర్యలుతప్పవని  షరీఫ్ హెచ్చరించారుపాలనా వికేంద్రీకరణ,సీఆర్డీఏ రద్దు బిల్లులపై సెలెక్ట్ కమిటీ సభ్యుల బులిటెన్ విడుదల చేయాలని కార్యదర్శిని ఆదేశించారు.
+Sharif expresses anger over secretary general's secretary reversing file on select committee. Sharif on Thursday urged secretary of the council to set up a select committee and report to him immediately.. Sharif warned that the bulletin of select committee members should be released on administrative decentralization and CRDA cancellation bills.. 
+2.288856267929077
+who  ::   Sharif
+what  ::   expresses anger over secretary general 's secretary reversing file on select committee
+when  ::   None
+where  ::   None
+why  ::   Sharif
+how  ::   on select committee .
+మిర్యాలగూడ పట్టణంలోని మీనా మహిళా ఇంజనీరింగ్ కళాశాలలో ఈ నెల 15న జాబ్ మేళా నిర్వహించనున్నట్లు కళాశాల చైర్మన్ మహమూద్ అలీ తెలిపారు. ఈ సందర్భంగా ఆయన మాట్లాడుతూ ఆండ్రాయిడ్,టెక్,కస్టమర్ సపోర్ట్ సంస్థల ఆధ్వర్యంలో నిర్వహించే ఈ జాబ్ మేళాలో అభ్యర్థులను ఎంపిక చేసి ఉద్యోగాలు ఇవ్వనున్నట్లు తెలిపారు. ఇంజనీరింగ్,డిగ్రీ లో ఉత్తీర్ణులైన వారిని రాత పరీక్ష,ఇంటర్వ్యూ ఆధారంగా ఎంపిక చేయనున్నట్లు తెలిపారు.
+Mahmood Ali, chairman of the college, said the job fair would be held at the Meena Women's Engineering College in Miryalguda town this month.. Speaking on the occasion, he said the job fair, which is run by Android, Tech and Customer Support companies, will select candidates and provide jobs.. Engineering and Degree candidates will be selected based on written test and interview. 
+1.2458035945892334
+who  ::   None
+what  ::   None
+when  ::   None
+where  ::   Miryalguda
+why  ::   he
+how  ::   job fair , which is run by Android , Tech
+నిడుబ్రోలులో కొంతమంది పాడి రైతులు ఒంగోలు జాతి ఆవులను పెంచుతున్నారు. కొద్ది రోజుల వ్యవధిలో నాలుగు ఆవులు మృతి చెందడంతో వారిలో ఆందోళన మొదలైంది. జి.అనిల్ కుమార్ కు చెందిన ఒక ఆవు బుధవారం చనిపోగా, కొద్ది రోజుల క్రితం మరొకటి మృతి చెందింది. మరణించిన ఆవులలో ఎన్.ప్రసాద్, ఒక రైస్ మిల్ కు చెందిన ఆవులు కూడా ఉన్నాయి. పశు వైద్యుల నిర్లక్ష్యం వల్ల కళ్ళు, నోట్లో నుంచి రక్తం వచ్చి చని పోతున్నాయని వారు వాపోతున్నారు.
+Some dairy farmers in Nidubrols are breeding cows of the Ongoes. Anxiety among them began when four cows were killed in a matter of days. G. One cow belonging to Anil Kumar died on Wednesday while another died just days ago. N. of dead cows. There are also cows belonging to Prasad, a rice mill. The veterinarian's negligence is that the blood from the eyes and mouth dies and they die.. 
+3.368293285369873
+who  ::   Some dairy farmers in Nidubrols
+what  ::   are breeding cows
+when  ::   None
+where  ::   None
+why  ::   cows
+how  ::   of dead cows .
+waiting for 10 seconds...
+
+last_postid ::  2386112
+select * from ugc_posts_local as t1 where t1.post_id > 2386112 and t1.lang_id=1 order by post_gmt
+కృష్ణా జిల్లా విజయవాడలో సత్యనారాయణపురంలోని ఓ ప్రైవేటు పాఠశాలలో గ్రాండ్ పేరెంట్స్ డే గురువారం ఘనంగా నిర్వహించారు. ఈ కార్యక్రమంలో పాఠశాల విద్యార్థులు తాత, బామ్మలకు ఆటల పోటీలు నిర్వహించారు . ఈ సందర్భంగా విద్యార్థులు చేసిన నృత్యాలు ఆకట్టుకున్నాయి . ఈ సందర్భంగా వారు ఎంతో ఆహ్లాదకరమైన వాతావరణాన్ని విద్యార్థులతో కలిసి ఎంజాయ్ చేశారు.
+Grand Parents Day was held on Thursday at a private school in Satyanarayanapuram in Vijayawada, Krishna district. During the event, schoolchildren hosted games for grandparents. The dances performed by the students were impressive. On this occasion they enjoyed a pleasant atmosphere with the students. 
+1.134932518005371
+who  ::   Grand Parents Day
+what  ::   was held on Thursday at a private school
+when  ::   None
+where  ::   Satyanarayanapuram in Vijayawada
+why  ::   schoolchildren
+how  ::   a private school in Satyanarayanapuram in Vijayawada , Krishna district
+ఖమ్మం జిల్లా మధిర పట్టణంలోని భరత్ విద్యాలయంలో గురువారం విద్యార్థులకు మాక్ పోలింగ్ కార్యక్రమం నిర్వహించారు. ఈ సందర్బంగా విద్యార్థులు ఓటు వేసే విధానం గురించి మాక్ పోలింగ్ ధ్వారా ప్రదర్శన నిర్వహించారు. ఈ సందర్బంగా భరత్ విద్యాసంస్థల అధినేత మాట్లాడుతూ... విద్యార్థులకు విద్యతో పాటు రాజకీయాలపై అవగాహన కల్పించడం కోసం, మాక్ పోలింగ్ కార్యక్రమం నిర్వహించినట్లు తెలిపారు.
+A mock polling program was held for students at Bharat Vidyalaya in Mathira town of Khammam district on Thursday. Mack Polling Dhwara hosted a presentation on the voting process of the students on this occasion. Speaking on the occasion, the head of the Bharat educational institutions said. . . Mack said the polling program was organized to educate students and educate them on politics. 
+1.3147318363189697
+who  ::   A mock polling program
+what  ::   was held for students
+when  ::   None
+where  ::   None
+why  ::   Mack Polling Dhwara
+how  ::   A mock polling program was held for students at Bharat
+మలికిపురం మండలం బట్టేలంక గ్రామంలోని జిల్లా పరిషత్ ఉన్నత పాఠశాలలో అటల్ టింకరింగ్ ల్యాబ్ ను రాజోలు శాసనసభ్యులు రాపాక వరప్రసాదరావు గురువారం ప్రారంభించారు.బట్టేలంకకు చెందిన దాతల సహకారంతో ఈ ల్యాబ్ ను ఏర్పాటు చేయడం జరిగిందని పాఠశాల ప్రధాన ఉపాధ్యాయుడు పి.నరసింహారావు తెలిపారు.విద్యా అభివృద్ధికి‌ దాతలు చేస్తున్న సేవలు అభినందనీయమని  ఎమ్మెల్యే రాపాక అన్నారు.
+Rajaloka legislators inaugurates Atal Tinkering Lab at Zilla Parishad High School. The school was established with the help of a donor from Battelanka. Narasimha Rao said. MLA Rapaka said donors' contributions to educational development are appreciated. 
+3.047145366668701
+who  ::   The school
+what  ::   was established with the help
+when  ::   None
+where  ::   None
+why  ::   Rajaloka legislators
+how  ::   to educational development are appreciated . . .
+ప్రకాశం : కంభం పట్టణంలోని బాలికోన్నత పాఠశాల విద్యార్థినిలు రాష్ట్ర స్థాయి ఫుట్ బాల్, ఉడ్ బాల్ క్రీడల్లో సత్తా చాటి జాతీయ స్థాయికి ఎంపిక అయినట్లు పాఠశాల ప్రధానోపాధ్యాయురాలు కె.పద్మ తెలిపారు. ఈ నెల 7,8, తేదీల్లో తిరుపతి, మరియు కర్నూలు జిల్లా వెల్దుర్తిలో జరిగిన పోటీల్లో ఎంపికయ్యారన్నారు. త్వరలో జరగనున్న జాతీయ స్థాయి క్రీడల్లో పాల్గొననున్నారు.
+Prakasam: School girls and girls from Kambam town have been selected to the national level of state level football and football.. Said Padma. Thirupathi and Kurnool have been selected for competitions in Veldurthi District. They will be participating in the national level games soon. 
+3.8921680450439453
+who  ::   Thirupathi and Kurnool
+what  ::   have been selected for competitions
+when  ::   None
+where  ::   Kambam
+why  ::   School girls and girls from Kambam town
+how  ::   the national level of state level football and football .
+గిరిజనుల ఆరాధ్య దైవమైన సంతు సేవలాల్ జయంతి ఉత్సవాలను ఈనెల 15న జిల్లా కేంద్రంలో ఘనంగా నిర్వహించనున్నట్లు జడ్పీవైస్ చైర్మన్ బికునాయక్,ఎంపీపీ సుశీల అన్నారు.తుర్కపల్లి మండల కేంద్రంలో జయంతి కి సంబంధించిన వాల్ పోస్టర్లను ఆవిష్కరించారు.జయంతి ఉత్సవాలకు మండలంలోని వివిధ తండాల నుండి లంబాడీలు అధిక సంఖ్యలో తరలిరావాలని అన్నారు.
+"The Samatu Sewalal Jayanti celebrations will be held at the district headquarters on the 15th of this month.. The wall posters of Jayanti have been unveiled at the center of Turkapalli Mandal. He said that a large number of lambadis should be flown in from various tents in the zone for the Jayanti celebrations. 
+1.1507840156555176
+who  ::   The Samatu Sewalal Jayanti celebrations
+what  ::   will be held at the district headquarters
+when  ::   None
+where  ::   Turkapalli Mandal
+why  ::   He
+how  ::   a large number of lambadis should be flown in from
+
