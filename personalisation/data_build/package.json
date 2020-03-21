@@ -1,0 +1,21 @@
+{
+  "name": "userdata_build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buildData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "async-foreach": "^0.1.3",
+    "group-by": "0.0.1",
+    "moment": "^2.24.0",
+    "mongodb": "^2.2.33",
+    "mysql": "^2.16.0",
+    "node-datetime": "^2.1.2",
+    "split-array": "^1.0.1"
+  }
+}

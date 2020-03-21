@@ -1,0 +1,5 @@
+var cat='general'
+// db.getCollection('virality_all_data').find({new_cat:cat,target:0 }).count()
+db.getCollection('virality_all_data').find({new_cat:cat,target:0,train:null }).count()
+db.getCollection('virality_all_data').find({new_cat:cat,target:0,train:0}).count()
+db.getCollection('virality_all_data').find({new_cat:cat,target:0,train:1}).count()
